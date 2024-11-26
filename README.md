@@ -26,7 +26,7 @@
   <h2 style="background: linear-gradient(to right, #ff758c, #ff6b66, #ff6140); -webkit-background-clip: text; color: transparent;">
     Planning Things Out ✨
   </h2>
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="480" height="360" alt="Planning GIF">
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="400" height="400" alt="Planning GIF">
 </div>
 
 <!--- stats & Trophy (start) -->
@@ -79,7 +79,7 @@
 <!--Tech icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,dynamodb,express,figma,firebase,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,bootstrap,tailwind,ts,vscode,laravel&perline=14" />
   </a>
 </p>
 
@@ -96,19 +96,23 @@
 
 <!--Icons for connect with me-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/1010nishant/" target="blank">
+  <!-- Enlace a LinkedIn -->
+  <a href="https://www.linkedin.com/in/favio-asturimac-6b907825b/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
-  <a href="https://twitter.com/1010nishant" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
-  </a>
-  <a href="https://www.instagram.com/nishant.jangir.1010/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
-  </a>
-  <a href="https://1010nishant.hashnode.dev/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" />
+  <!-- Enlace a Email -->
+  <a href="mailto:faviusam@gmail.com" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="email" height="50" width="50" />
   </a>
 </p>
 
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=Favio-coder&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<div align="center">
 <!--horizontal divider-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
