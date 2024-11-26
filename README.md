@@ -10,16 +10,19 @@
 
 
 <!--- snake -->
+<!-- GIF example -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <h2>Planning Things Out ✨</h2>
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="480" height="360" alt="Planning GIF">
+  <p><a href="https://giphy.com/gifs/ign-describe-plans-13HBDT4QSTpveU"></a></p>
 </div>
+
 
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">I want to create great things</h2></summary>
+    <summary><h2 style="display: inline-block">I want to create great things!!!</h2></summary>
   </ul>
 </div>
 
