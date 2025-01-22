@@ -15,7 +15,7 @@
 <!--Intro start with cat image-->
 <!--Intro start-->
 - 🌱 I’m currently learning **SQL server**, **MongoDB**, and **PostgreSQL**.
-- 🖥️ I know **React**, **Next.js**,**vue.js**,**spring boot** and **laravel**.
+- 🖥️ I know **React**, **Next.js**, **vue.js**, **spring boot** and **laravel**.
 - ☁️ I’m deeply interested in **cloud computing**, exploring platforms like **AWS**, **Google Cloud**, and **Azure**.  
 - 🤖 My passion for **artificial intelligence** drives me to work on cutting-edge **unsupervised learning** projects.  
 - 💡🚑 I’m developing a **Healthtech venture**, leveraging innovation and technology to revolutionize healthcare. [**Learn more here**](https://linktr.ee/alzhivida).  
